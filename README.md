@@ -431,8 +431,7 @@
         
         
     </div> <div style="padding: 0 5%; max-width: 1200px; margin: auto;">
-        <button 
-        </button>
+        
     </div>
 
 
@@ -534,7 +533,7 @@
             </div>
         </div>
 
-        <div class="lesson-card">
+         <div class="lesson-card">
             <div class="lesson-header" onclick="toggleLesson('l7')">
                 <h3>7. البنزين العطري (C6H6)</h3>
                 <i class="fas fa-plus"></i>
